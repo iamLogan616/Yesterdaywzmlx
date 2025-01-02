@@ -2,14 +2,14 @@
 class WZMLStyle:
     # ----------------------
     # async def start(client, message) ---> __main__.py
-    ST_BN1_NAME = 'Repo'
-    ST_BN1_URL = 'https://www.github.com/VJBots/WZML-X'
+    ST_BN1_NAME = 'Admin Vai'
+    ST_BN1_URL = 'https://t.me/ExTra_OrdiNaRy_BoY'
     ST_BN2_NAME = 'Updates'
-    ST_BN2_URL = 'https://t.me/VJ_Botz'
+    ST_BN2_URL = 'https://t.me/OtttHDFlix'
     ST_MSG = '''<i>This bot can mirror all your links|files|torrents to Google Drive or any rclone cloud or to telegram or to ddl servers.</i>
 <b>Type {help_command} to get a list of available commands</b>'''
     ST_BOTPM = '''<i>Now, This bot will send all your files and links here. Start Using ...</i>'''
-    ST_UNAUTH = '''<i>You Are not authorized user! Deploy your own WZML-X Mirror-Leech bot</i>'''
+    ST_UNAUTH = '''<i>You Are not authorized user! Deploy your own Mirror-Leech bot অথরাইজেশন নেওয়ার জন্য এডমিনের সাথে কন্টাক করুন</i>'''
     OWN_TOKEN_GENERATE = '''<b>Temporary Token is not yours!</b>\n\n<i>Kindly generate your own.</i>'''
     USED_TOKEN = '''<b>Temporary Token already used!</b>\n\n<i>Kindly generate a new one.</i>'''
     LOGGED_PASSWORD = '''<b>Bot Already Logged In via Password</b>\n\n<i>No Need to Accept Temp Tokens.</i>'''
